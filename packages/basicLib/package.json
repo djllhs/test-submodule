@@ -9,10 +9,5 @@
   },
   "author": "daijialing",
   "license": "ISC",
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "moment": "^2.22.2"
-  }
+  "devDependencies": {}
 }
