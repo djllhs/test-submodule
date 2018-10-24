@@ -1,5 +1,9 @@
 import { formDateAndTime } from "./src/date";
+import { convertToYuan, convertToFen, formatMoney } from "./src/price";
 
 export {
-  formDateAndTime
+  formDateAndTime,
+  convertToYuan,
+  convertToFen,
+  formatMoney
 }

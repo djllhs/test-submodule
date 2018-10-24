@@ -1,7 +1,13 @@
 import {
-  formDateAndTime
+  formDateAndTime,
+  convertToYuan,
+  convertToFen,
+  formatMoney
 } from "./packages/basicLib";
 
 export {
-  formDateAndTime
+  formDateAndTime,
+  convertToYuan,
+  convertToFen,
+  formatMoney
 }
