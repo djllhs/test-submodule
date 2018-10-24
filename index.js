@@ -1,6 +1,6 @@
 import {
   formDateAndTime
-} from "./basicLib";
+} from "./packages/basicLib";
 
 export {
   formDateAndTime
